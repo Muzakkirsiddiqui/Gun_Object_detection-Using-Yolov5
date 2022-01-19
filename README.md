@@ -30,7 +30,8 @@
 
  Train Dataset | Validation dataset| Test | Epochs|
   | --- | --- |  --- |--- |
-  | 330| 30| 30 |50 |
+  | 535| 50| 26 |150 |
+  
  ![Capture](https://user-images.githubusercontent.com/97952352/150194092-740f630e-5af0-430b-a20b-d4df38c822e3.JPG)
    
   * Algorithms Implemented:
