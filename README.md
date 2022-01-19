@@ -14,12 +14,15 @@
 * [Evaluation Metrics](#evaluation-metrics)
 * [Results and Conclusion](#results-and-conclusion)
 
-* Introduction
+* Introduction:
 
     Detect guns in photos and in videos using Yolov5
 
-* Data Source
+* Data Source:
 
    https://www.kaggle.com/issaisasank/guns-object-detection
+ 
+ * Data Pre-processing:
+  
 
 
