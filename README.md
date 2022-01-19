@@ -49,7 +49,7 @@
    
   4.Check defaults parameters in train.py and specify any parameters you want to it be different.
 
-  5.Run $ !python detect.py --weights runs/train/exp/weights/best.pt --img 416 --conf 0.12 --source /content/gun_test3.jpg
+  5.Run $ !python train.py --img 416 --batch 16 --epochs 500 --data {dataset.location}/data.yaml --weights yolov5s.pt --cache
 
 
  Train Dataset | Validation dataset| Test | Epochs|
@@ -89,7 +89,7 @@ Following are the results on test data with confidence score>0.4
       
   3.Run the following command 
   
-      python3 detect.py --weights best.pt --img_size 416 --source images
+      !python detect.py --weights runs/train/exp/weights/best.pt --img 416 --conf 0.12 --source /content/gun_test3.jpg
    
    
    
