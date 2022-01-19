@@ -1,6 +1,6 @@
 # Gun_Object_detection-Using-Yolov5
 
-![gun_test3](https://user-images.githubusercontent.com/97952352/150189058-bbffd6ad-6dc9-4178-bd5f-e60e4e6d87a0.jpg)
+![download (3)](https://user-images.githubusercontent.com/97952352/150195170-74a8d76d-13c3-4653-8828-1443630ab98a.jpg)
 
 ### Table of contents
 * [Introduction](#introduction)
