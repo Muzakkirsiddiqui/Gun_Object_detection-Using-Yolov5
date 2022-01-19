@@ -104,7 +104,7 @@ _Sample result:_
    
 https://user-images.githubusercontent.com/97952352/150192206-06057799-3752-439f-8861-04aed610382b.mp4
 
-![download (3)](https://user-images.githubusercontent.com/97952352/150195170-74a8d76d-13c3-4653-8828-1443630ab98a.jpg) ![1 (5)](https://user-images.githubusercontent.com/97952352/150199907-c3e1783e-1f66-4ba7-b541-552ba4b9a784.jpg)
+![download (3)](https://user-images.githubusercontent.com/97952352/150195170-74a8d76d-13c3-4653-8828-1443630ab98a.jpg)    ![1 (5)](https://user-images.githubusercontent.com/97952352/150199907-c3e1783e-1f66-4ba7-b541-552ba4b9a784.jpg)
   
 
 
