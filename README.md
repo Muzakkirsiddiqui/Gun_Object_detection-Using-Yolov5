@@ -48,7 +48,7 @@ Following are the results on test data with confidence score>0.4
 
 | _Per class_ |precision    |recall  |map@0.5  |map@0.95 | total no of images |
 | --- | --- | --- | --- | --- | ---
-| 'Gun' | 0.85 | 0.9 | 0.91 |0.552 | 28 |
+| 'Gun' | 0.79 | 0.75 | 0.76 |0.352 | 50 |
   
   ![Capture12](https://user-images.githubusercontent.com/97952352/150192992-a1318914-75ba-4a73-a683-ad3e2a87012e.JPG)
    
