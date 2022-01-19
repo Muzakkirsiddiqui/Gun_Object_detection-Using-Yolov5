@@ -32,7 +32,7 @@
   | --- | --- |  --- |--- |
   | 535| 50| 26 |150 |
   
- ![Capture](https://user-images.githubusercontent.com/97952352/150194092-740f630e-5af0-430b-a20b-d4df38c822e3.JPG)
+
    
   * Algorithms Implemented:
        yolov5
@@ -43,7 +43,7 @@
        
   * Evaluation Metrics:
 
-    ### Current performance metrics v0.0
+### Current performance metrics:
 
  
 Following are the results on test data with confidence score>0.4
@@ -51,8 +51,8 @@ Following are the results on test data with confidence score>0.4
 | _Per class_ |precision    |recall  |map@0.5  |map@0.95 | total no of images |
 | --- | --- | --- | --- | --- | ---
 | 'Gun' | 0.79 | 0.75 | 0.76 |0.352 | 50 |
-  
-  ![Capture12](https://user-images.githubusercontent.com/97952352/150192992-a1318914-75ba-4a73-a683-ad3e2a87012e.JPG)
+ 
+ ![Capture](https://user-images.githubusercontent.com/97952352/150194092-740f630e-5af0-430b-a20b-d4df38c822e3.JPG)
    
    
    
