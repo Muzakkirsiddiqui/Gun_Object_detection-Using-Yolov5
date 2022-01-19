@@ -16,7 +16,7 @@
 
 * Introduction
 
-Detect guns in photos and in videos using Yolov5
+    Detect guns in photos and in videos using Yolov5
 
 * Data Source
 
