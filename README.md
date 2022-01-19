@@ -37,6 +37,27 @@
        
        https://github.com/ultralytics/yolov5
    
+   ## Training instructions 
+
+  1.Change directory to dev/yolov5/
+  
+  2.install dependencies using !pip install -r requirments.txt
+  
+  3.Create data.yaml file which containes train,val and test training images and labels  
+  
+      train : data/data/train/images
+      
+      val : data/data/val/images
+      
+      test : data/data/test/images
+      
+      nc : 1
+      
+      names: ["Gun"] 
+   
+  4.Check defaults parameters in train.py and specify any parameters you want to it be different.
+
+  5.Run $ python train.py --img 512 --batch 8 --epochs 40 --data data.yaml --weights yolov5s.pt
   
 
 
