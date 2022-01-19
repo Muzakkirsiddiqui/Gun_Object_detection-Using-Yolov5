@@ -65,7 +65,8 @@ Following are the results on test data with confidence score>0.4
    
    
    
-   ##DEMO:
+### Prediction results
+_Sample result:_
      
    
 https://user-images.githubusercontent.com/97952352/150192206-06057799-3752-439f-8861-04aed610382b.mp4
