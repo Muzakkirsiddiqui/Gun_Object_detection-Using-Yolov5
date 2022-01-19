@@ -1,14 +1,6 @@
-# Gun_Object_detection-Using-Yolov5 
+# Gun_Object_detection-Using-Yolov5
 
-
---------------------------------------------------------------Demo:----------------------------------------------------------------------------------------------
-
-
-
-
-
-![68b0fbc4-6b2b-4d92-bbc9-b2e50514950c](https://user-images.githubusercontent.com/97952352/150191855-95ceb615-71f2-47a8-ac09-a77242b13cbe.jpg)
-
+![gun_test3](https://user-images.githubusercontent.com/97952352/150189058-bbffd6ad-6dc9-4178-bd5f-e60e4e6d87a0.jpg)
 
 ### Table of contents
 * [Introduction](#introduction)
@@ -38,34 +30,35 @@
 
  Train Dataset | Validation dataset| Test | Epochs|
   | --- | --- |  --- |--- |
-  | 535| 50| 26 |150 |
+  | 330| 30| 30 |50 |
    
   * Algorithms Implemented:
        yolov5
        
        https://github.com/ultralytics/yolov5
+       
    
-   ## Training instructions 
-
-  1.Change directory to dev/yolov5/
+       
+  * [Evaluation Metrics]:
   
-  2.install dependencies using !pip install -r requirments.txt
-  
-  3.Create data.yaml file which containes train,val and test training images and labels  
-  
-      train : data/data/train/images
-      
-      val : data/data/val/images
-      
-      test : data/data/test/images
-      
-      nc : 1
-      
-      names: ["Gun"] 
+  ![Capture12](https://user-images.githubusercontent.com/97952352/150192992-a1318914-75ba-4a73-a683-ad3e2a87012e.JPG)
    
-  4.Check defaults parameters in train.py and specify any parameters you want to it be different.
-
-  5.Run $ !python detect.py --weights runs/train/exp/weights/best.pt --img 416 --conf 0.12 --source /content/gun_test3.jpg
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+https://user-images.githubusercontent.com/97952352/150192206-06057799-3752-439f-8861-04aed610382b.mp4
   
 
 
