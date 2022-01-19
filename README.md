@@ -1,6 +1,6 @@
 # Gun_Object_detection-Using-Yolov5
 
-![download (3)](https://user-images.githubusercontent.com/97952352/150195170-74a8d76d-13c3-4653-8828-1443630ab98a.jpg)
+
 
 ### Table of contents
 * [Introduction](#introduction)
@@ -61,15 +61,13 @@ Following are the results on test data with confidence score>0.4
    
    
    
-   
-   
-   
-   
 ### Prediction results
 _Sample result:_
      
    
 https://user-images.githubusercontent.com/97952352/150192206-06057799-3752-439f-8861-04aed610382b.mp4
+
+![download (3)](https://user-images.githubusercontent.com/97952352/150195170-74a8d76d-13c3-4653-8828-1443630ab98a.jpg)
   
 
 
