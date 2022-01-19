@@ -23,6 +23,13 @@
    https://www.kaggle.com/issaisasank/guns-object-detection
  
  * Data Pre-processing:
+   1) Removed the images which don't have annotations
+   2) Converted annotations into standard yolo format
+   
+  * Algorithms Implemented:
+       yolov5
+       https://github.com/ultralytics/yolov5
+   
   
 
 
