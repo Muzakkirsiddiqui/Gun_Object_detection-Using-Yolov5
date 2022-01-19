@@ -1,0 +1,5 @@
+names:
+- Gun
+nc: 1
+train: Gun-object-detection-1/train/images
+val: Gun-object-detection-1/valid/images
