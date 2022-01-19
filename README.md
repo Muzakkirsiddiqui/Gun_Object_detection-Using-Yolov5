@@ -25,6 +25,12 @@
  * Data Pre-processing:
    1) Removed the images which don't have annotations
    2) Converted annotations into standard yolo format
+   Training data
+   In current dataset contains 330 training images and trained with 512*512 dimensions 
+
+ Train Dataset | Validation dataset| Test | Epochs|
+| --- | --- |  --- |--- |
+| 330| 30| 30 |50 |
    
   * Algorithms Implemented:
        yolov5
