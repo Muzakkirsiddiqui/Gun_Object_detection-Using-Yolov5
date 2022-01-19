@@ -48,7 +48,7 @@
    
   4.Check defaults parameters in train.py and specify any parameters you want to it be different.
 
-  5.Run $ python train.py --img 512 --batch 8 --epochs 40 --data data.yaml --weights yolov5s.pt
+  5.Run $ !python detect.py --weights runs/train/exp/weights/best.pt --img 416 --conf 0.12 --source /content/gun_test3.jpg
 
 
  Train Dataset | Validation dataset| Test | Epochs|
