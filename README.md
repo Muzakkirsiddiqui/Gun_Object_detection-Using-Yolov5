@@ -31,7 +31,7 @@
 
  Train Dataset | Validation dataset| Test | Epochs|
   | --- | --- |  --- |--- |
-  | 330| 30| 30 |50 |
+  | 535| 50| 26 |150 |
    
   * Algorithms Implemented:
        yolov5
