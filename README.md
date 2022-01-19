@@ -77,6 +77,19 @@ Following are the results on test data with confidence score>0.4
 | 'Gun' | 0.79 | 0.75 | 0.76 |0.352 | 50 |
  
  ![Capture](https://user-images.githubusercontent.com/97952352/150194092-740f630e-5af0-430b-a20b-d4df38c822e3.JPG)
+ 
+ 
+ ## Inference instructions 
+
+  1.Change directory to dev/yolov5/
+  
+  2.Mention the required parameters in detect.py with following details along with best.pt params file which is there in model_params folder 
+  
+      weights='best.pt', source='images', img_size=416, conf_thres=0.12, iou_thres=0.2, device='', view_img=False, save_txt=False, save_conf=False,  classes=None,   agnostic_nms=False, augment=False, update=False, project='runs/detect', name='exp', exist_ok=False
+      
+  3.Run the following command 
+  
+      python3 detect.py --weights best.pt --img_size 416 --source images
    
    
    
