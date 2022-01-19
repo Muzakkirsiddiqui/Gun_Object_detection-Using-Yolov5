@@ -29,11 +29,12 @@
    In current dataset contains 330 training images and trained with 512*512 dimensions 
 
  Train Dataset | Validation dataset| Test | Epochs|
-| --- | --- |  --- |--- |
-| 330| 30| 30 |50 |
+  | --- | --- |  --- |--- |
+  | 330| 30| 30 |50 |
    
   * Algorithms Implemented:
        yolov5
+       
        https://github.com/ultralytics/yolov5
    
   
